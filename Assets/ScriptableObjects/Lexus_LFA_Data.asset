@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e68dd531306235d4ba6cec2d7ae8f707, type: 3}
+  m_Name: Lexus_LFA_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CarDataSO
+  carName: 2012 Lexus LFA
+  carPrefab: {fileID: 4359640546357635790, guid: 0cbe228578b606c4eb82f8744b9a28d3, type: 3}
+  mass: 1480
+  wheelbase: 2.6
+  rightSideMassRatio: 0.5
+  horsepower: 552
+  maxRPM: 9000
+  peakTorqueRPM: 6800
+  gears: 6
+  dragCoefficient: 0.31
+  mechanicalDownforce: 230
+  aeroDownforceCoefficient: 1.35
+  draftingDragReduction: 0.3
+  draftingZoneLength: 15
+  topSpeedSuperSpeedway: 325
+  topSpeedShortTrack: 270
+  frontSpringRateLeft: 38000
+  frontSpringRateRight: 38000
+  rearSpringRateLeft: 36000
+  rearSpringRateRight: 36000
+  suspensionTravel: 0.2
+  damperStiffness: 5000
+  brakeTorqueMass: 5600
+  brakeBalance: 0.6
+  brakeHeatBuildup: 1.1
+  tyreFrictionPeak: 2.45
+  tyreFrictionSlide: 1.9
+  tyreWidth: 0.325
+  tyreRadius: 0.335
+  optimalSlipRatio: 0.1
+  optimalSlipAngle: 6.5

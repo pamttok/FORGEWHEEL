@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e68dd531306235d4ba6cec2d7ae8f707, type: 3}
+  m_Name: BMW_M3_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CarDataSO
+  carName: 2005 BMW M3 GTR E46
+  carPrefab: {fileID: 8286227986194074595, guid: 7bd6d26b4a5b40a46a44a9a1d2838184, type: 3}
+  mass: 1250
+  wheelbase: 2.73
+  rightSideMassRatio: 0.5
+  horsepower: 493
+  maxRPM: 8200
+  peakTorqueRPM: 6200
+  gears: 6
+  dragCoefficient: 0.32
+  mechanicalDownforce: 180
+  aeroDownforceCoefficient: 1.1
+  draftingDragReduction: 0.28
+  draftingZoneLength: 14
+  topSpeedSuperSpeedway: 295
+  topSpeedShortTrack: 245
+  frontSpringRateLeft: 34000
+  frontSpringRateRight: 34000
+  rearSpringRateLeft: 32000
+  rearSpringRateRight: 32000
+  suspensionTravel: 0.18
+  damperStiffness: 4500
+  brakeTorqueMass: 5200
+  brakeBalance: 0.62
+  brakeHeatBuildup: 1.05
+  tyreFrictionPeak: 2.2
+  tyreFrictionSlide: 1.7
+  tyreWidth: 0.31
+  tyreRadius: 0.335
+  optimalSlipRatio: 0.11
+  optimalSlipAngle: 7.5
