@@ -14,8 +14,11 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
+<<<<<<< HEAD
 *.unitypackage.gz
 *.unitypackage
+=======
+>>>>>>> bce497ad0d67b6b110242a1c9fe640fad3d50a3f
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
