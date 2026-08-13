@@ -3,8 +3,8 @@ FORGEWHEEL
 An arcade racing game built with Unity 6, featuring customizable vehicle physics, AI opponent, multiple game modes, and a scalable architecture designed for future multiplayer support.
 
 ## Play It
-[exe Builds on Google-Drive →](Build 1 - https://drive.google.com/drive/folders/14Djh0B5TTagELpw-CC0J1ARoox5TUNYI?usp=drive_link
-Build 2 - https://drive.google.com/drive/folders/1CHyvGC_k3vN7GSe3s5IS0fzstCqJx5Vz?usp=drive_link)
+[exe Builds on Google-Drive →](Build 1 - https://drive.google.com/file/d/1rAdhYetbES_GcJxME-A18Xys9pE-aQAN/view?usp=drive_link
+Build 2 - https://drive.google.com/file/d/1XTgc96P8Dedobkk-LeSqfhVzJWwhtbfX/view?usp=drive_link)
 
 ## Watch It
 [Gameplay Trailer →](Build 1- https://drive.google.com/file/d/1IQADsoKyGYc6USH4JkGKRGzr-HyGTKeJ/view?usp=drive_link
